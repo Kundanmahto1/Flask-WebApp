@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "flask",
+			"path": "."
+		},
+		{
+			"name": "templates",
+			"path": "../../Downloads/BangloreHouseApp/BangloreHouseApp/templates"
+		}
+	],
+	"settings": {}
+}
